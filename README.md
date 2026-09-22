@@ -100,7 +100,7 @@ run unbounded bulk jobs against the university's server.
 
 ---
 
-## วิธีรันผ่าน PowerShell (สำหรับผู้ที่ไม่ถนัดสายเทคนิค)
+## วิธีรันผ่าน PowerShell
 
 **ขั้นตอนที่ 1: ดาวน์โหลดไฟล์**
 - เข้าไปที่หน้า repo นี้บน GitHub
